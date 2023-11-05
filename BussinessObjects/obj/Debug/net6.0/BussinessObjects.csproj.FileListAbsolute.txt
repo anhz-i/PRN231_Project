@@ -1,0 +1,16 @@
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\bin\Debug\net6.0\BussinessObjects.deps.json
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\bin\Debug\net6.0\BussinessObjects.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\bin\Debug\net6.0\BussinessObjects.pdb
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\BussinessObjects.csproj.AssemblyReference.cache
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\BussinessObjects.AssemblyInfoInputs.cache
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\BussinessObjects.AssemblyInfo.cs
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\BussinessObjects.csproj.CoreCompileInputs.cache
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\BussinessObjects.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\refint\BussinessObjects.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\BussinessObjects.pdb
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\ref\BussinessObjects.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\bin\Debug\net6.0\appsettings.Development.json
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\bin\Debug\net6.0\appsettings.json
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\bin\Debug\net6.0\BussinessObjects.runtimeconfig.json
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\BussinessObjects\obj\Debug\net6.0\BussinessObjects.genruntimeconfig.cache

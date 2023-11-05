@@ -1,0 +1,17 @@
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\bin\Debug\net6.0\appsettings.Development.json
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\bin\Debug\net6.0\appsettings.json
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\bin\Debug\net6.0\Repositories.deps.json
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\bin\Debug\net6.0\Repositories.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\bin\Debug\net6.0\Repositories.pdb
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\bin\Debug\net6.0\BussinessObjects.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\bin\Debug\net6.0\BussinessObjects.pdb
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\Repositories.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\refint\Repositories.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\Repositories.pdb
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\Repository\obj\Debug\net6.0\ref\Repositories.dll
