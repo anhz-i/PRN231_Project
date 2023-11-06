@@ -89,3 +89,5 @@ E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\obj
 E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\obj\Debug\net6.0\APIControllers.pdb
 E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\obj\Debug\net6.0\APIControllers.genruntimeconfig.cache
 E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\obj\Debug\net6.0\ref\APIControllers.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Elasticsearch.Net.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Nest.dll

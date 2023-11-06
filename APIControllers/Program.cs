@@ -8,7 +8,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<QuizletProjectContext>(options =>
 {
-    options.UseSqlServer(builder.Configuration.GetConnectionString("eBookStore"));
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MyDB"));
 });
 builder.Services.AddDependencyInjection();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
