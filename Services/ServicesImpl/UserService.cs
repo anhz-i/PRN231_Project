@@ -26,14 +26,19 @@ namespace Services.ServicesImpl
         {
             try
             {
-                var u = await _userRepository.FindByEmailAndPasswordAsync(email, password);
+                var u = await _userRepository.FindByEmailAsync(email);
+                if (u is null)
+                {
+                    throw new Exception("Email existed");
+                }
+                u = await _userRepository.FindByEmailAndPasswordAsync(email, password);
                 if (u is not null)
                 {
                     return _mapper.Map<UserLoginResponse>(u);
                 }
                 else
                 {
-                    throw new Exception("Password or Email error");
+                    throw new Exception("Password is incorrect");
                 }
             }
             catch (Exception e)
