@@ -29,7 +29,7 @@ namespace Services.ServicesImpl
                 var u = await _userRepository.FindByEmailAsync(email);
                 if (u is null)
                 {
-                    throw new Exception("Email existed");
+                    throw new Exception("Don't have account with email!");
                 }
                 u = await _userRepository.FindByEmailAndPasswordAsync(email, password);
                 if (u is not null)
@@ -40,6 +40,8 @@ namespace Services.ServicesImpl
                 {
                     throw new Exception("Password is incorrect");
                 }
+                
+
             }
             catch (Exception e)
             {

@@ -91,3 +91,8 @@ E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\obj
 E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\obj\Debug\net6.0\ref\APIControllers.dll
 E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Elasticsearch.Net.dll
 E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Nest.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\LearningSpace\Semester8\PRN231\ProjectFinal\Project_PRN231\APIControllers\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

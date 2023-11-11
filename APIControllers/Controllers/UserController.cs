@@ -1,8 +1,10 @@
-﻿using BussinessObjects.Dtos.User;
+﻿using APIControllers.JwtFeatures;
+using BussinessObjects.Dtos.User;
 using BussinessObjects.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Services.IServices;
+using System.IdentityModel.Tokens.Jwt;
 
 namespace APIControllers.Controllers
 {
@@ -11,10 +13,12 @@ namespace APIControllers.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
+        private readonly JwtHandler _jwtHandler;
 
-        public UserController(IUserService userService)
+        public UserController(IUserService userService, JwtHandler jwtHandler)
         {
             _userService = userService;
+            _jwtHandler = jwtHandler;
         }
 
         [HttpPost("login")]
@@ -25,12 +29,19 @@ namespace APIControllers.Controllers
                 var u = await _userService.Login(request.Email, request.Password);
                 if (u is not null)
                 {
-                    return Ok(u);
+                    var signingCredentials = _jwtHandler.GetSigningCredentials();
+                    var claims = _jwtHandler.GetClaims(u);
+                    var tokenOptions = _jwtHandler.GenerateTokenOptions(signingCredentials, claims);
+                    var token = new JwtSecurityTokenHandler().WriteToken(tokenOptions);
+                    u.IsAuthSuccessful = true;
+                    u.Token = token;
+                    return Ok(u);                    
                 }
                 else
                 {
-                    return BadRequest("Don't have account!");
+                    return Unauthorized(new UserLoginResponse { ErrorMessage = "Invalid Authentication" });
                 }
+                              
             }
             catch (Exception e)
             {

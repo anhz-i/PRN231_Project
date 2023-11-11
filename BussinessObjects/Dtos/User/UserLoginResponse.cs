@@ -15,5 +15,8 @@ namespace BussinessObjects.Dtos.User
         public string Password { get; set; } = null!;
 
         public string Username { get; set; } = null!;
+        public bool IsAuthSuccessful { get; set; }
+        public string? ErrorMessage { get; set; }
+        public string? Token { get; set; }
     }
 }
